@@ -3,9 +3,12 @@
 Proyecto para el módulo de Machine Learning durante el bootcamp de Data Science.
 
 El objetivo de este proyecto es construir un modelo de predicción que permita ofrecer ayuda psicológica gratuita a las personas cuyo resultado cumplan las condiciones para ello.
+
 Se generará  la target o variable objetivo que nos permitirá trabajar con nuestro modelo de predicción (clasificación).
-La métrica que se utilizará es la AUC y 
+La métrica que se utilizará es la AUC y se priorizará el Recall.
+
 Los datos  sobre los que se trabajarán están basados en una encuesta realizada a casi 40.000 personas de todo el mundo, en la que a parte de recoger las contestaciones, se recopila información relativa a la género, edad,  religión, número de hijos, orientación sexual etc.
+
 Esta encuesta, llamada DASS (Depression, Ansiety, Stress Scales), es un instrumento diseñado para medir estados emocionales relacionados con la depresión, la ansiedad y el estrés elaborado por la Fundación de Psicología de Australia.
 
 Está compuesta por 42 preguntas, 14 preguntas para cada bloque (depresión, ansiedad y estrés)
